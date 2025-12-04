@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2257293077_1797089591_223132457.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_3287615603_187631149.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_4218479587_3522217245.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_2790157275_2447031048.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_1537272653_2556814113.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_3631156076_2068629604.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_1909861494_93338058.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_2603473381_1498049737.mp4'
+file 'file:C:/Users/Juan/Documents/dev-win/master-code/NumericalMethods/FinalProject/media/videos/main/1080p60/partial_movie_files/BooleanOperations/2135761390_3269533279_1593724656.mp4'
